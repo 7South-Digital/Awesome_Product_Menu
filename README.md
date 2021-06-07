@@ -1,4 +1,5 @@
-=== AWESOME PRODUCT VOTING ===
+# Awesome Product Voting
+
 Contributors: Alberto Mengelle | https://github.com/Korinho
 Tags: woocommerce, 
 Requires at least: 5.7
